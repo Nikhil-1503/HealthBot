@@ -1,7 +1,7 @@
 # HealthBot
 
 ## Problem statement
-Over 40% of healthcare executives consider AI will have the greatest impact on their organizations in the future. Healthcare providers are already using various types of artificial intelligence, such as predictive analytics or machine learning, to address various issues. Today, an increasing number of them are looking into chatbots.
+The healthcare industry is always under a tremendous pressure with the lack of human resources and funds. To combat these two serious issues, more and more companies in the healthcare industry are opting for chatbots. Chatbots offer an engaging way to communicate with patients and provide them with timely information.
 
 ## Problem description
 The core idea of this project is to clarify the queries about their health. People can get their queries clarified within minutes using this website. This website is integrated with azure bot service. This bot is developed with QnAmaker which is one of the services of Microsoft Azure. Users can easily interact with bot via chat. Using this bot, user can get instant information related to their health.
