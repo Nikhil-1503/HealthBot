@@ -2,6 +2,8 @@
 
 ### Live website link - https://mango-mushroom-05983271e.1.azurestaticapps.net
 
+### Project demo video link - https://drive.google.com/file/d/1zRJu1p380O-FO4V4HEdbSU2BEGV2giPF/view?usp=sharing
+
 ## Problem statement
 The healthcare industry is always under a tremendous pressure with the lack of human resources and funds. To combat these two serious issues, most companies in the healthcare industry are opting for chatbots. Chatbots offer an engaging way to communicate with patients and provide them with timely information.
 
