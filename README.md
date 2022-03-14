@@ -14,3 +14,7 @@ The core idea of this project, HealthBot, is to help users clarify the queries r
 2. Azure Bot Service
 3. Static Web Apps
 
+<img src="https://raw.githubusercontent.com/Nikhil-1503/HealthBot/master/images/home.png" align="center" alt="home" width="720" height="360">
+<img src="https://raw.githubusercontent.com/Nikhil-1503/HealthBot/master/images/about.png" align="center" alt="about" width="720" height="360">
+<img src="https://raw.githubusercontent.com/Nikhil-1503/HealthBot/master/images/contact.png" align="center" alt="contact" width="720" height="360">
+<img src="https://raw.githubusercontent.com/Nikhil-1503/HealthBot/master/images/chatbot.png" align="center" alt="chatbot" width="720" height="360">
